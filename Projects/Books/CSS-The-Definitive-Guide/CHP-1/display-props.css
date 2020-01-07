@@ -1,0 +1,144 @@
+
+/* All settings that can go into display and what each one does -- not a valid class  */
+.displayClasses {
+
+  /* display-outside  */
+  display: block;
+  display: inline;
+  display: run-in;
+
+  /* display-inside */
+  display: flow;
+  display: flow-root;
+  display: table;
+  display: flex;
+  display: grid;
+  display: ruby;
+
+  /* display-listitem */
+  display: list-item;
+
+  /* display-internal */
+  display: table-row-group;
+  display: table-header-group;
+  display: table-footer-group;
+  display: table-row;
+  display: table-cell;
+  display: table-column-group;
+  display: table-column;
+  display: table-caption;
+  display: ruby-base;
+  display: ruby-text;
+  display: ruby-base-container;
+  display: ruby-text-container;
+
+  /* display-box */
+  display: contents;
+  display: none;
+
+  /* display-legacy */
+  display: inline-block;
+  display: inline-list-item;
+  display: inline-table;
+  display: inline-flex;
+  display: inline-grid;
+}
+
+.displayClasses-block {
+  display: block;
+}
+.displayClasses-inline {
+  display: inline;
+}
+.displayClasses-run-in {
+  display: run-in;
+}
+
+/* display-inside */
+.displayClasses-flow {
+  display: flow;
+}
+.displayClasses-flow-root {
+  display: flow-root;
+}
+.displayClasses-table {
+  display: table;
+}
+.displayClasses-flex {
+  display: flex;
+}
+.displayClasses-grid {
+  display: grid;
+}
+.displayClasses-ruby {
+  display: ruby;
+}
+
+
+/* display-listitem */
+.displayClasses-list-item {
+  display: list-item;
+}
+
+/* display-internal */
+.displayClasses-table-row-group {
+  display: table-row-group;
+}
+.displayClasses-table-header-group {
+  display: table-header-group;
+}
+.displayClasses-table-footer-group {
+  display: table-footer-group;
+}
+.displayClasses-table-row {
+  display: table-row;
+}
+.displayClasses-table-cell {
+  display: table-cell;
+}
+.displayClasses-table-column-group {
+  display: table-column-group;
+}
+.displayClasses-table-column {
+  display: table-column;
+}
+.displayClasses-table-caption {
+  display: table-caption;
+}
+.displayClasses-ruby-base {
+  display: ruby-base;
+}
+.displayClasses-ruby-text {
+  display: ruby-text;
+}
+.displayClasses-ruby-base-container {
+  display: ruby-base-container;
+}
+.displayClasses-ruby-text-container {
+  display: ruby-text-container;
+}
+
+/* display-box */
+.displayClasses-contents {
+  display: contents;
+}
+.displayClasses-none {
+  display: none;
+}
+
+/* display-legacy */
+.displayClasses-inline-block {
+  display: inline-block;
+}
+.displayClasses-inline-list-item {
+  display: inline-list-item;
+}
+.displayClasses-inline-table {
+  display: inline-table;
+}
+.displayClasses-inline-flex {
+  display: inline-flex;
+}
+.displayClasses-inline-grid {
+  display: inline-grid;
+}
